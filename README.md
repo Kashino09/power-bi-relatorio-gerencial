@@ -47,7 +47,7 @@
 | Arquivo | Descrição |
 |---|---|
 | `Power BI - Relatório Gerencial de Vendas.pbix` | Projeto completo do Power BI Desktop, com as 2 páginas |
-| `Power_BI - Relatório Gerencial de Vendas.pdf` | Exportação em PDF das 2 páginas do relatório |
+| `Power BI - Relatório Gerencial de Vendas.pdf` | Exportação em PDF das 2 páginas do relatório |
 | `Power BI - Relatório Gerencial de Vendas.pptx` | Suplemento em PowerPoint, com uma página do relatório por slide |
 
 # Publicação
